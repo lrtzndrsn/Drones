@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gx9SL21dAsqpKF0+Wy/Mya+8A5VHQIYYA7Kwdun7PsT/qbGvMaT/dNpy2I5muJg++hzwierBMhZ6GvXPtE6IGQ==",
+  "success": true,
+  "projectFilePath": "/Users/lauritzandersen/Documents/CodeProjects/Drones/src/simulate.fsproj",
+  "expectedPackageFiles": [
+    "/Users/lauritzandersen/.nuget/packages/fsharp.core/7.0.403/fsharp.core.7.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}

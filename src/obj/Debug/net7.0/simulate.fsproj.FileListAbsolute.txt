@@ -1,0 +1,4 @@
+/Users/lauritzandersen/Documents/CodeProjects/Drones/src/obj/Debug/net7.0/simulate.fsproj.AssemblyReference.cache
+/Users/lauritzandersen/Documents/CodeProjects/Drones/src/obj/Debug/net7.0/simulate.AssemblyInfoInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/Drones/src/obj/Debug/net7.0/simulate.AssemblyInfo.fs
+/Users/lauritzandersen/Documents/CodeProjects/Drones/src/obj/Debug/net7.0/simulate.fsproj.CoreCompileInputs.cache
